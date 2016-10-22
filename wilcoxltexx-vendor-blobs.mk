@@ -124,7 +124,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/wilcoxltexx/proprietary/lib/libsensor1.so:system/lib/libsensor1.so \
     vendor/samsung/wilcoxltexx/proprietary/lib/libTsAccm.so:system/lib/libTsAccm.so \
     vendor/samsung/wilcoxltexx/proprietary/lib/libTsAwb.so:system/lib/libTsAwb.so \
-    vendor/samsung/wilcoxltexx/proprietary/vendor/lib/libqti-perfd-client.so:system/vendor/lib/libqti-perfd-client.so \
     vendor/samsung/wilcoxltexx/proprietary/bin/insthk:system/bin/insthk \
     vendor/samsung/wilcoxltexx/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/samsung/wilcoxltexx/proprietary/lib/libdrmfs.so:system/lib/libdrmfs.so \
