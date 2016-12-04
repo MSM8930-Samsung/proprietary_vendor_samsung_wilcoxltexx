@@ -44,15 +44,11 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/wilcoxltexx/proprietary/vendor/lib/libRSDriver_adreno.so:system/vendor/lib/libRSDriver_adreno.so \
     vendor/samsung/wilcoxltexx/proprietary/vendor/lib/libsc-a3xx.so:system/vendor/lib/libsc-a3xx.so \
     vendor/samsung/wilcoxltexx/proprietary/lib/libacdapi_azi.so:system/lib/libacdapi_azi.so \
-    vendor/samsung/wilcoxltexx/proprietary/lib/libI420colorconvert.so:system/lib/libI420colorconvert.so \
-    vendor/samsung/wilcoxltexx/proprietary/lib/libmm-color-convertor.so:system/lib/libmm-color-convertor.so \
     vendor/samsung/wilcoxltexx/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/samsung/wilcoxltexx/proprietary/bin/rild:system/bin/rild \
     vendor/samsung/wilcoxltexx/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/samsung/wilcoxltexx/proprietary/etc/plmn_se13.bin:system/etc/plmn_se13.bin \
-    vendor/samsung/wilcoxltexx/proprietary/lib/libcordon.so:system/lib/libcordon.so \
     vendor/samsung/wilcoxltexx/proprietary/lib/libfactoryutil.so:system/lib/libfactoryutil.so \
-    vendor/samsung/wilcoxltexx/proprietary/lib/libomission_avoidance.so:system/lib/libomission_avoidance.so \
     vendor/samsung/wilcoxltexx/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/samsung/wilcoxltexx/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
     vendor/samsung/wilcoxltexx/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
