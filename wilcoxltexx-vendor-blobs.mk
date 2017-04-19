@@ -121,15 +121,5 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/wilcoxltexx/proprietary/lib/libTsAccm.so:system/lib/libTsAccm.so \
     vendor/samsung/wilcoxltexx/proprietary/lib/libTsAwb.so:system/lib/libTsAwb.so \
     vendor/samsung/wilcoxltexx/proprietary/vendor/lib/libqti-perfd-client.so:system/vendor/lib/libqti-perfd-client.so \
-    vendor/samsung/wilcoxltexx/proprietary/bin/insthk:system/bin/insthk \
-    vendor/samsung/wilcoxltexx/proprietary/bin/qseecomd:system/bin/qseecomd \
-    vendor/samsung/wilcoxltexx/proprietary/lib/libdrmfs.so:system/lib/libdrmfs.so \
-    vendor/samsung/wilcoxltexx/proprietary/lib/libdrmtime.so:system/lib/libdrmtime.so \
-    vendor/samsung/wilcoxltexx/proprietary/lib/libhdcp2.so:system/lib/libhdcp2.so \
-    vendor/samsung/wilcoxltexx/proprietary/lib/libQSEEComAPI.so:system/lib/libQSEEComAPI.so \
-    vendor/samsung/wilcoxltexx/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
     vendor/samsung/wilcoxltexx/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
-    vendor/samsung/wilcoxltexx/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
-    vendor/samsung/wilcoxltexx/proprietary/vendor/lib/libwvdrm_L3.so:system/vendor/lib/libwvdrm_L3.so \
-    vendor/samsung/wilcoxltexx/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:system/vendor/lib/libWVStreamControlAPI_L3.so \
-    vendor/samsung/wilcoxltexx/proprietary/vendor/firmware/libpn547_fw.so:system/vendor/firmware/libpn547_fw.so \
+    vendor/samsung/wilcoxltexx/proprietary/vendor/firmware/libpn547_fw.so:system/vendor/firmware/libpn547_fw.so
